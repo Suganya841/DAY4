@@ -1,0 +1,18 @@
+.external-heading {
+    color: green;
+    font-size: 26px;
+}
+.external{
+    background-color: lightgray;
+    padding: 15px;
+    border: 2px solid black;
+}
+
+.external h2 {
+    color: navy;
+}
+
+.external p {
+    color: darkred;
+    font-size: 20px;
+}
